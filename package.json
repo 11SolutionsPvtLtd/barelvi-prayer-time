@@ -1,7 +1,7 @@
 {
   "name": "barelvi-prayer-time",
   "version": "1.0.0",
-  "main": "build/index.js",
+  "main": "build/Adhan.js",
   "scripts": {
     "build": "tsc"
   },
